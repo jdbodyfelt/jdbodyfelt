@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=jdbodyfelt&theme=cobalt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/?username=jdbodyfelt&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <a href="https://www.linkedin.com/in/jdbodyfelt/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"/></a>
