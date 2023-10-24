@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbodyfelt&theme=synthwave)
+
+<a href=”https://www.linkedin.com/in/jdbodyfelt/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
